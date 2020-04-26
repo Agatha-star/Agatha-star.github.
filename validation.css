@@ -1,0 +1,24 @@
+h1 {
+    margin-left: 70px;
+}
+
+form textarea {
+    float: left;
+    width: 350px;
+    height: 150px;
+}
+
+form {
+    float: left;
+}
+
+[type="submit"] {
+    clear: right;
+    margin: 20px 0 0 230px;
+    font-size: 18px
+}
+
+body {
+    background-color: rgb(215, 215, 223);
+    padding: 0;
+}
